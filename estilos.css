@@ -57,7 +57,7 @@ main .main-logo img{
     height:110px;}
 
 main .main-input {
-    width: 430px;
+    width: 530px;
     margin:0 auto;
 /*Margen hacia abajo = margin-bottom*/
     margin-bottom:35px;}
@@ -69,13 +69,12 @@ main .main-input input{
     outline:none;}
 
 main .main-input-container{
-   /* width:550px;*/
+    width:550px;
     border-radius:100px;
     border:1px solid #dfe1e5;
     display: flex;
     justify-content:center;
-    align-items:center;
-    margin-bottom:30px;}
+    align-items:center;}
 
 main .main-input-container:hover{
     /*El box-shadow funciona la sombra como un reloj*/
